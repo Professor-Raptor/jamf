@@ -18,3 +18,6 @@ Send Device Information Command, Create Mobile Devices, View MDM command informa
 
 ## jpCI
 jpCI is for our custom return-to-service procedure, reinstalling specific apps on specific devices, etc. It is more specialized for our use case but perhaps you can modify it for use in your own company. 
+
+----------------------------------
+Made by a human
